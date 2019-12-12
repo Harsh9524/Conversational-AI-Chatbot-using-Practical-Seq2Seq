@@ -1,0 +1,9 @@
+You: hello
+ChatBot: how are you?
+
+You: I am good
+ChatBot: but did you talk to me on the phone?
+
+You: NO=o
+ChatBot: give it to me.
+

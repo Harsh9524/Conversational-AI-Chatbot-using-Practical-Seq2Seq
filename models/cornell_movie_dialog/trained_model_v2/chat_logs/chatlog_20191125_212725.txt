@@ -1,0 +1,30 @@
+You: hello
+ChatBot: how are you?
+
+You: I am good
+ChatBot: but did you talk to me on the phone?
+
+You: No actually I did not
+ChatBot: you know it isn't.
+
+You: How are you?
+ChatBot: i'm not mad.
+
+You: Neither am I
+ChatBot: no. that's not true. that's why i'm here.
+
+You: Okay
+ChatBot: no.
+
+You: Are you angry?
+ChatBot: no.
+
+You: Do you know that I built you?
+ChatBot: no.
+
+You: What do you know them?
+ChatBot: no.
+
+You: What do you know then?
+ChatBot: no.
+

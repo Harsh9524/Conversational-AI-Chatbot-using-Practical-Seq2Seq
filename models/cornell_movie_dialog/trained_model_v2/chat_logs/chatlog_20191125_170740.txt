@@ -1,0 +1,18 @@
+You: hello
+ChatBot: how are you?
+
+You: I am good
+ChatBot: but did you talk to me on the phone?
+
+You: No
+ChatBot: why not?
+
+You: I did't want to
+ChatBot: I do. but I.
+
+You: Oh I am glad to hear that
+ChatBot: I know.
+
+You: Haha Cool
+ChatBot: ...
+
