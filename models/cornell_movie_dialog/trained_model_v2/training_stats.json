@@ -1,1 +1,0 @@
-{"py/object": "training_stats.TrainingStats", "py/state": {"best_training_loss": 1.225132665422044, "best_validation_metric_value": 99999.0, "early_stopping_check": 0, "global_step": 178293, "learning_rate": 1.5454648951446774}}
