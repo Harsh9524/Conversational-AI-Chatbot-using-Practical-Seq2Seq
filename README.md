@@ -19,7 +19,7 @@ Copy both of these files into the github repository containing main.py file.
 These files are imported on the line 17 “#Importing the dataset”.
 Please let me know if you have any questions. And do give a star to my GitHub repo if it is of help to you.
 
-USING PREDEFINED WEIGHTS
+USING PRETRAINED WEIGHTS
 
 THE PREDEFINED WEIGHTS HAVE BEEN UPLOADED at https://gofile.io/?c=mV7ySi
 
