@@ -6,7 +6,7 @@ REQUIREMENTS
 - python 3.5.4
 - tensorflow 1.0.0
 
-IMPORTING THE DATASET
+TRAINING YOUR OWN MODEL
 
 Please refer to the link below to download the open source dataset.
 https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
@@ -21,7 +21,10 @@ Please let me know if you have any questions. And do give a star to my GitHub re
 
 USING PRETRAINED WEIGHTS
 
-THE PREDEFINED WEIGHTS HAVE BEEN UPLOADED at https://gofile.io/?c=mV7ySi
+1. For using the pretrained weights download them at https://gofile.io/?c=mV7ySi.
+2. Unzip the file and store them in a folder named "weights" inside the folder chatbot-pretrained weights.
+3. Run the "the_best_chatbot.py" file.
+
 
 For a better understanding please refer to my article https://medium.com/@harshpanwar9524/understanding-rnns-lstm-and-seq2seq-model-using-a-practical-implementation-of-chatbot-in-2b9ab76d1eda
 
