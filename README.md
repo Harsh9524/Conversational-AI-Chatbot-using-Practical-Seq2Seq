@@ -26,6 +26,7 @@ USING PRETRAINED WEIGHTS
 3. Run the "the_best_chatbot.py" file.
 
 ![Source: Semeh Ben Salem](chat.png)
+
 Image Source: Semeh Ben Salem https://www.linkedin.com/in/semeh-ben-salem-60b5759a/ 
 
 For a better understanding please refer to my article https://medium.com/@harshpanwar9524/understanding-rnns-lstm-and-seq2seq-model-using-a-practical-implementation-of-chatbot-in-2b9ab76d1eda
