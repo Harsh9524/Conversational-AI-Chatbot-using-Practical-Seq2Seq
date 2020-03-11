@@ -4,7 +4,7 @@ A simple open domain generative based chatbot based on Recurrent Neural Networks
 REQUIREMENTS
 
 - python 3.5.4
-- tensorflow 1.0.0
+- tensorflow 0.12.1
 
 TRAINING YOUR OWN MODEL
 
