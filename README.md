@@ -25,6 +25,7 @@ USING PRETRAINED WEIGHTS
 2. Unzip the file and store them in a folder named "weights" inside the folder chatbot-pretrained weights.
 3. Run the "the_best_chatbot.py" file.
 
+![Source: Semeh Ben Salem](chat.png)
 
 For a better understanding please refer to my article https://medium.com/@harshpanwar9524/understanding-rnns-lstm-and-seq2seq-model-using-a-practical-implementation-of-chatbot-in-2b9ab76d1eda
 
