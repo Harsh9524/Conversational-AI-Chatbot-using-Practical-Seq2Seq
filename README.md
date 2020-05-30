@@ -21,7 +21,7 @@ Please let me know if you have any questions. And do give a star to my GitHub re
 
 USING PRETRAINED WEIGHTS
 
-1. For using the pretrained weights download them at https://gofile.io/?c=mV7ySi.
+1. For using the pretrained weights download them at https://drive.google.com/file/d/1oCIQTHi5GI7N4uH5gOVrdG0x1tt00wqs/view?usp=sharing.
 2. Unzip the file and store them in a folder named "weights" inside the folder chatbot-pretrained weights.
 3. Run the "the_best_chatbot.py" file.
 
